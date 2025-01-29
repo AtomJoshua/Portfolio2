@@ -20,7 +20,7 @@ Feel free to reach out if you’d like to connect or discuss potential opportuni
 
 Setup Instructions
 Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/AtomJoshua/Portfolio2.git
 
 Navigate to the project folder:
 cd your-repository-name
